@@ -52,19 +52,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## Project Structure
-
-```text
-m2m-sim-workflow-demo/
-├── send_sms.py
-├── receive_sms.py
-├── check_network.py
-├── internet_test.py
-├── send_http_data.py
-├── mqtt_publish.py
-└── README.md
-```
-
 ## Objective
 
 Understand the workflow of M2M SIM cards, including message sending, network communication, and internet connectivity using Python and AT commands.
